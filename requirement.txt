@@ -1,0 +1,11 @@
+# INSTALL PACKAGE
+
+"--- pip install --upgrade langchain langchain-community"
+
+# PROVIDE ACCESS TO THE OLLAMA MODEL
+
+"----pip install -U langchain-ollama"
+
+# INSTALL STREAMLIT
+
+"----pip install streamlit"
